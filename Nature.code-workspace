@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/starter-project-css-grid-udemy-portfolio-project-master (1)"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"workbench.editor.enablePreviewFromCodeNavigation": true,
+		"workbench.editor.enablePreviewFromQuickOpen": true,
+		"workbench.editor.limit.value": 20,
+		"workbench.editor.limit.enabled": false
+	}
+}
